@@ -1,6 +1,6 @@
 <script>
     import { onMount } from "svelte";
-    import {Icon} from "@iconify/svelte"
+    import Icon from "@iconify/svelte"
 
     let doctor_profile = {}
     onMount(()=>{
